@@ -7,3 +7,6 @@
 ### - 💬 Ask me about anything from the MERN stack and seek me for volunteering.
 ### - 📫 How to reach me: 
 ### - ⚡ Fun fact: I am also a good chess player.
+
+# My Github Stats
+[![Zawwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedZawwarAhmed)](https://github.com/anuraghazra/github-readme-stats)
