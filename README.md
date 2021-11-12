@@ -5,7 +5,7 @@
 ### - 🌱 I’m currently learning MonogDB and enhancing my skills in the backend.
 ### - 👯 I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
 ### - 💬 Ask me about anything from the MERN stack and seek me for volunteering.
-### - 📫 Reach out to me: [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/syed-zawwar-ahmed-b7345a1b8/)
+### - 📫 Reach out to me: [![linkedin](https://cdn-icons-png.flaticon.com/200/200/174857.png)](https://www.linkedin.com/in/syed-zawwar-ahmed-b7345a1b8/)
 ### - ⚡ Fun fact: I am also a good chess player.
 
 # My Github Stats
