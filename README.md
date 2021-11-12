@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Syed Zawwar Ahmed
-### Web Developer, Freelancer and Student of CS
+## Web Developer, Freelancer and Student of CS
 
 ### - 🔭 I’m currently working on backend projects using Node, Express and MonogoDB as my tech stacks.
 ### - 🌱 I’m currently learning MonogDB and enhancing my skills in the backend.
