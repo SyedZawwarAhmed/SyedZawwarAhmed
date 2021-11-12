@@ -16,4 +16,3 @@
 [![Zawwar's GitHub stat](https://github-readme-stats.vercel.app/api?username=SyedZawwarAhmed)]
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZawwarAhmed&langs_count=8)](https://github.com/SyedZawwarAhmed/github-readme-stats)
-
