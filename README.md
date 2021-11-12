@@ -13,7 +13,7 @@
 ### - ⚡ Fun fact: I am also a good chess player.
 
 # My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedZawwarAhmed&show_icons=true&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedZawwarAhmed&show_icons=true&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZawwarAhmed&langs_count=8)](https://github.com/SyedZawwarAhmed/github-readme-stats)
