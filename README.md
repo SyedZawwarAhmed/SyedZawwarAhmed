@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Syed Zawwar Ahmed
-### I am a front-end web developer having skills in HTML, CSS, JavaScript, React.js, Node.js, Express.js and MongoDB. I am currently a student of Computer Science and I aim to become a Full-Stack web developer. I am very pro-efficient at converting designs to websites but I create my own designs as well. I have made multiple projects which include landing pages, website integrating with an API, and some applications including a lot of logic.
+### Web Developer, Freelancer and Student of CS
 
 ### - 🔭 I’m currently working on backend projects using Node, Express and MonogoDB as my tech stacks.
 ### - 🌱 I’m currently learning MonogDB and enhancing my skills in the backend.
