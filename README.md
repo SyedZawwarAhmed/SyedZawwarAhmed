@@ -7,6 +7,7 @@
 ### - 💬 Ask me about anything from the MERN stack and seek me for volunteering.
 ### - 📫 Reach out to me: 
 <a href="https://www.linkedin.com/in/syed-zawwar-ahmed-b7345a1b8/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/zawwar.ahmed.3/"><img src="https://img.icons8.com/color/96/000000/facebook-new.png"/></a>
 ### - ⚡ Fun fact: I am also a good chess player.
 
 # My Github Stats
