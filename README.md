@@ -8,7 +8,7 @@
 ### - 📫 Reach out to me: 
 <a href="https://www.linkedin.com/in/syed-zawwar-ahmed-b7345a1b8/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/zawwar.ahmed.3/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href="https://twitter.com/SyedZawwarAhmed" target=_blank><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href="https://twitter.com/SyedZawwarAhmed" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 ### - ⚡ Fun fact: I am also a good chess player.
 
 # My Github Stats
