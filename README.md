@@ -12,7 +12,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
 <img style="display:inline" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img style="display:inline; width: 48px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
+<img style="width: 48px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ### - 📫 Reach out to me:
