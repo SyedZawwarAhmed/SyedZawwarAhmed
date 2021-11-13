@@ -7,13 +7,13 @@
 ### - 💬 Ask me about anything from the MERN stack and seek me for volunteering.
 ### - ⚡ Fun fact: I am also a good chess player.
 ### - Languages and Tools
-<img src="https://img.icons8.com/color/50/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img style="width: 48px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
+<img style="display:inline" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+<img style="display:inline; width: 48px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
+<img style="display:inline" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ### - 📫 Reach out to me:
 <a href="https://zawwarahmed.netlify.app"><img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/000000/external-globe-achievements-and-badges-flatart-icons-lineal-color-flatarticons.png"/></a>
