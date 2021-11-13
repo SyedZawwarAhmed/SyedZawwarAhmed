@@ -7,7 +7,7 @@
 ### - 💬 Ask me about anything from the MERN stack and seek me for volunteering.
 ### - ⚡ Fun fact: I am also a good chess player.
 ### - Languages and Tools
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/>
+<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
