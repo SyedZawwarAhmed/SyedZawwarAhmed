@@ -4,7 +4,7 @@
 ### - 🔭 I’m currently working on backend projects using Node, Express and MonogoDB as my tech stacks.
 ### - 🌱 I’m currently learning MonogDB and enhancing my skills in the backend.
 ### - 👯 I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
-### - 💬 Ask me about anything from the MERN stack and seek me for volunteering.
+### - 💬 Ask me about anything regarding the MERN stack and seek me for volunteering.
 ### - ⚡ Fun fact: I am also a good chess player.
 ### - Languages and Tools
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
