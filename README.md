@@ -2,7 +2,7 @@
 ## Web Developer, Freelancer and Student of CS
 
 ### - 🔭 I’m currently working on backend projects using Node, Express and MonogoDB as my tech stacks.
-### - 🌱 I’m currently learning MonogDB and enhancing my skills in the backend.
+### - 🌱 I’m currently learning Blockcahin and enhancing my skills in the backend.
 ### - 👯 I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
 ### - 💬 Ask me about anything regarding the MERN stack and seek me for volunteering.
 ### - ⚡ Fun fact: I am also a good chess player.
