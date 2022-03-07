@@ -12,7 +12,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
 <img style="display:inline" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img style="width: 48px; border-radius: 100%" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />
+<img style="width: 48px; border-radius: 100% overflow-hidden;" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
