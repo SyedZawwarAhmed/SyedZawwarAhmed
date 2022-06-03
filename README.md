@@ -11,7 +11,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-<img style="width: 24px" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
+<img style="height: 48px" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
 <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
 <img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
 <img style="display:inline" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
