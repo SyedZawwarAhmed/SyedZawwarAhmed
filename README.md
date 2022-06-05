@@ -23,7 +23,7 @@
 
 ### - 📫 Reach out to me:
 <a href="https://zawwarahmed.netlify.app"><img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/000000/external-globe-achievements-and-badges-flatart-icons-lineal-color-flatarticons.png"/></a>
-<a href="https://www.linkedin.com/in/syed-zawwar-ahmed-b7345a1b8/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/SyedZawwarAhmed/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/zawwar.ahmed.3/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href="https://twitter.com/SyedZawwarAhmed" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 <a href="https://www.instagram.com/zawwarahmed/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
