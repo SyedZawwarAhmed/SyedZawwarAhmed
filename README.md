@@ -1,35 +1,34 @@
-# Hi there 👋 I'm Syed Zawwar Ahmed
-## Web Developer, Freelancer and Student of CS
+<h1 align="center">Hi 👋, I'm Syed Zawwar Ahmed</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
-### - 🔭 I’m currently working on backend projects using Node, Express and MonogoDB as my tech stacks.
-### - 🌱 I’m currently learning Blockcahin and enhancing my skills in the backend.
-### - 👯 I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
-### - 💬 Ask me about anything regarding the MERN stack and seek me for volunteering.
-### - ⚡ Fun fact: I am also a good chess player.
-### - Languages and Tools
-<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-<img style="height: 48px" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
-<img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
-<img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
-<img style="display:inline" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<span style="display:inline; border-radius: 50%; overflow: hidden;"><img style="width: 48px" src="express logo.png"/></span>
-<img style="display:inline" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzawwarahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedzawwarahmed" /> </p>
 
-### - 📫 Reach out to me:
-<a href="https://zawwarahmed.netlify.app"><img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/000000/external-globe-achievements-and-badges-flatart-icons-lineal-color-flatarticons.png"/></a>
-<a href="https://www.linkedin.com/in/SyedZawwarAhmed/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.facebook.com/zawwar.ahmed.3/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href="https://twitter.com/SyedZawwarAhmed" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-<a href="https://www.instagram.com/zawwarahmed/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedzawwarahmed" alt="syedzawwarahmed" /></a> </p>
 
-# My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedZawwarAhmed&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+- 👯 I’m looking to collaborate on **Open Source**
 
-# Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZawwarAhmed&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/SyedZawwarAhmed/github-readme-stats)
+- 👨‍💻 Some of my projects are available at [https://zawwarahmed.netlify.app](https://zawwarahmed.netlify.app)
+
+- 💬 Ask me about **React Native and MERN Stack**
+
+- 📫 How to reach me **zawwar.ahmed12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/syedzawwarahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedzawwarahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syedzawwarahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedzawwarahmed" height="30" width="40" /></a>
+<a href="https://fb.com/zawwar.ahmed.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zawwar.ahmed.3" height="30" width="40" /></a>
+<a href="https://instagram.com/zawwarahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zawwarahmed" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/zawwarahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zawwarahmed" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedzawwarahmed&show_icons=true&locale=en&layout=compact" alt="syedzawwarahmed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedzawwarahmed&show_icons=true&locale=en" alt="syedzawwarahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedzawwarahmed&" alt="syedzawwarahmed" /></p>
