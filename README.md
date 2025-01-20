@@ -7,7 +7,7 @@ Web and Mobile App Developer
 I am Zawwar Ahmed. I love working with JavaScript.
 
 * 🌍  I'm based in Karachi
-* 🖥️  See my portfolio at [My Portfolio](http://zawwarahmed.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](http://zawwarahmed.com)
 * ✉️  You can contact me at [zawwar.ahmed12@gmail.com](mailto:zawwar.ahmed12@gmail.com)
 * 🚀  I'm currently working on [Estenarh Android and IOS App](http://estenarh.com)
 * 🧠  I'm learning Flutter
