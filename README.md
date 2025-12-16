@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zawwar Ahmed
 ====================================================================================================================================
 
-Web and Mobile App Developer
+Full Stack Developer
 ----------------------------
 
-I am Zawwar Ahmed. I love working with JavaScript.
+I am Zawwar Ahmed. Full-stack developer with extensive experience in web and mobile applications. Currently working at SmythOS, an open-source Operating System for AI agents.
 
-* 🌍  I'm based in Karachi
-* 🖥️  See my portfolio at [My Portfolio](http://zawwarahmed.com)
-* ✉️  You can contact me at [zawwar.ahmed12@gmail.com](mailto:zawwar.ahmed12@gmail.com)
-* 🚀  I'm currently working on [Estenarh Android and IOS App](http://estenarh.com)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on JavaScript and TypeScript Projects
+* 🌍  I'm based in Karachi
+* 🖥️  See my portfolio at [My Portfolio](http://zawwarahmed.com)
+* ✉️  You can contact me at [zawwar.ahmed12@gmail.com](mailto:zawwar.ahmed12@gmail.com)
+* 🚀  I'm currently working on [SmythOS](http://smythos.com) - focusing on the Smyth runtime environment (SDK)
+* 🧠  I'm learning AI Agents and Runtime Environments
+* 🤝  I'm open to collaborating on JavaScript, TypeScript, and AI Agent Projects
 
 ### Skills
 
